@@ -1,0 +1,51 @@
+export const projects = [
+  {
+    id: 'lumiere',
+    title: 'Lumière intérieure',
+    category: 'Portrait',
+    src: '/assets/hero.webp',
+    alt: 'Portrait d’une femme dans la lumière chaude d’une fenêtre.',
+    description: 'L’essentiel, sans artifice.',
+  },
+  {
+    id: 'allure',
+    title: 'L’allure libre',
+    category: 'Éditorial',
+    src: '/assets/editorial.webp',
+    alt: 'Portrait éditorial d’une femme en tenue noire sur un fond sombre.',
+    description: 'Une présence. Un mouvement.',
+  },
+  {
+    id: 'gestes',
+    title: 'La beauté du geste',
+    category: 'Savoir-faire',
+    src: '/assets/gestes.webp',
+    alt: 'Les mains d’un artisan façonnent un bol en argile dans son atelier.',
+    description: 'Ce que les mains racontent.',
+  },
+  {
+    id: 'ensemble',
+    title: 'Les jours ensemble',
+    category: 'Instants de vie',
+    src: '/assets/mariage.webp',
+    alt: 'Un mariage célébré dans une lumière naturelle.',
+    description: 'Les liens que l’on garde.',
+  },
+  {
+    id: 'presences',
+    title: 'Présences',
+    category: 'Portrait',
+    src: '/assets/regard.webp',
+    alt: 'Un portrait masculin, le regard tourné vers l’objectif.',
+    description: 'Être soi, simplement.',
+  },
+  {
+    id: 'ailleurs',
+    title: 'Un peu d’ailleurs',
+    category: 'Éditorial',
+    src: '/assets/horizon.webp',
+    alt: 'Un paysage brumeux baigné d’une lumière dorée.',
+    description: 'Le silence a ses images.',
+  },
+] as const;
+export type PhotoProject = (typeof projects)[number];

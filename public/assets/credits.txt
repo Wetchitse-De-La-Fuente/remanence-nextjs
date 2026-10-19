@@ -1,0 +1,75 @@
+RÉMANENCE — CRÉDITS VISUELS
+
+Ce site est une création de démonstration. Rémanence est une identité
+provisoire. Le portfolio ne présente ni commandes ni références clients réelles.
+
+IMAGES GÉNÉRÉES
+
+Mode : outil intégré de génération d’images (ImageGen).
+Les images ont été générées pour cette création, puis compressées en WebP.
+
+1. Lumière intérieure — assets/hero.webp
+
+Prompt :
+Use case: photorealistic-natural. Asset type: full-bleed hero photograph for a
+luxury French photography studio website, landscape 3:2 composition. Create a
+stunning cinematic editorial 35mm photograph, beautifully human and natural.
+A young adult Black woman with short natural hair and luminous dark brown skin
+in an ivory silk sleeveless top, photographed in profile and three-quarter view,
+eyes gazing softly to the left. She stands in a shadowy artist's studio near a
+tall window, warm late afternoon light grazing her face and shoulder. Subject in
+the RIGHT THIRD of the image, medium close portrait from chest up, head fully
+inside frame, large dark near-black negative space on the LEFT HALF for a large
+white headline. The atmosphere is quiet, intimate, confident; warm film
+highlights, subtle grain, rich deep shadows, muted neutral tones, extraordinary
+skin texture and sophisticated composition. A soft gauzy window curtain catches
+a sliver of light at the far right. This is a photographic agency's own artistic
+portfolio, not corporate stock. No text, no logos, no graphic overlay, no borders,
+no watermark, no 3D, no illustration. High resolution.
+
+2. La beauté du geste — assets/gestes.webp
+
+Prompt :
+Use case: photorealistic-natural. Asset type: portfolio photograph for a refined
+cinematic photography studio website, landscape 3:2. An intimate documentary
+photograph of a ceramic artisan's hands shaping a large wet clay bowl on a
+potter's wheel inside a real working studio. Close medium framing at wheel
+height, focus on the expressive hands covered in clay and the beautifully
+simple vessel, the artisan's plain oatmeal linen apron in the background, face
+out of frame. Tall window light from the left draws warm natural highlights on
+clay, soft deep shadows and bokeh shelves of earthenware in the background.
+Sophisticated warm-neutral 35mm color film aesthetic, rich near-black browns,
+taupe and muted cream, subtle grain, soft highlights, authentic tactile
+materials. Editorial, observational, beautifully composed, entirely realistic.
+No bright colors, no commercial stock-photo posing, no logos, no text,
+no watermarks, no illustrations, no 3D. High resolution.
+
+PHOTOGRAPHIES UNSPLASH
+
+Photographies illustratives, hébergées localement après compression.
+Les titres des séries du site sont des titres de démonstration.
+
+L’allure libre — assets/editorial.webp
+https://images.unsplash.com/photo-1524504388940-b1c1722653e1
+
+Les jours ensemble — assets/mariage.webp
+https://images.unsplash.com/photo-1519741497674-611481863552
+
+Présences — assets/regard.webp
+https://images.unsplash.com/photo-1506794778202-cad84cf45f1d
+
+Un peu d’ailleurs — assets/horizon.webp
+https://images.unsplash.com/photo-1470252649378-9c29740c9fa8
+
+Image du studio — assets/atelier.webp
+https://images.unsplash.com/photo-1452587925148-ce544e77e70d
+
+Licence Unsplash : https://unsplash.com/license
+
+POLICES
+
+Inter : Google Fonts, https://fonts.google.com/specimen/Inter
+Cormorant Garamond : Google Fonts,
+https://fonts.google.com/specimen/Cormorant+Garamond
+
+Licences SIL Open Font License disponibles dans assets/licenses/.
